@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.15)  2 JUN 2024 20:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.15)  2 JUN 2024 21:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -24,6 +24,16 @@ File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/extsizes.sty
+Package: extsizes 1996/10/08 v1.0 Non Standard LaTeX Package
+
+
+Package ExtSizes Warning: It is better to use one of the extsizes classes,
+ if you can.
+
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+))
 (/usr/share/texlive/texmf-dist/tex/latex/t2/mathtext.sty
 Package: mathtext 2018/04/14 v1.0 transparent text-and-math defs
 LaTeX Info: Redefining \halign on input line 121.
@@ -507,29 +517,29 @@ LaTeX Warning: Label `trivial' multiply defined.
 )
 \openout1 = `ref.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Trying to load font information for T2A+ftm on input line 5
-7.
-LaTeX Font Info:    No file T2Aftm.fd. on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Trying to load font information for T2A+ftm on input line 4
+9.
+LaTeX Font Info:    No file T2Aftm.fd. on input line 49.
 
 
 LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 57.
+(Font)              using `T2A/cmr/m/n' instead on input line 49.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -547,15 +557,15 @@ LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
 * \textheight=731.23584pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
-* \headheight=12.0pt
+* \topmargin=-54.36449pt
+* \headheight=14.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=14.0pt
 * \footskip=30.0pt
-* \marginparwidth=35.0pt
+* \marginparwidth=15.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -598,1288 +608,32 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
 
 LaTeX Font Warning: Font shape `T2A/ftm/b/n' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 62.
+(Font)              using `T2A/ftm/m/n' instead on input line 54.
 
 
 LaTeX Font Warning: Font shape `T2A/ftm/m/sl' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 81.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...quad\= \quad\=\quad\=\quad\=\quad\=\quad\=
-                                                  \quad\=\quad\= \quad\=\qua...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...\quad\=\quad\=\quad\=\quad\=\quad\=\quad\=
-                                                  \quad\= \quad\=\quad\=\qua...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...\quad\=\quad\=\quad\=\quad\=\quad\=\quad\=
-                                                   \quad\=\quad\=\quad\=\qua...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...quad\=\quad\=\quad\=\quad\=\quad\= \quad\=
-                                                  \quad\=\quad\=\quad\=\quad...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...quad\=\quad\=\quad\=\quad\= \quad\=\quad\=
-                                                  \quad\=\quad\=\quad\=\quad...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...quad\=\quad\=\quad\= \quad\=\quad\=\quad\=
-                                                  \quad\=\quad\=\quad\= \qua...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...quad\=\quad\= \quad\=\quad\=\quad\=\quad\=
-                                                  \quad\=\quad\= \quad\= \qu...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...quad\= \quad\=\quad\=\quad\=\quad\=\quad\=
-                                                  \quad\= \quad\= \quad\= \q...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...\quad\=\quad\=\quad\=\quad\=\quad\=\quad\=
-                                                   \quad\= \quad\= \quad\= \...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...quad\=\quad\=\quad\=\quad\=\quad\= \quad\=
-                                                   \quad\= \quad\= \quad\= \...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...uad\=\quad\=\quad\=\quad\= \quad\= \quad\=
-                                                   \quad\= \quad\= \вЂ™\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...ad\=\quad\=\quad\= \quad\= \quad\= \quad\=
-                                                   \quad\= \вЂ™\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Tab overflow.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...d\=\quad\= \quad\= \quad\= \quad\= \quad\=
-                                                   \вЂ™\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-l.85 ...\quad\= \quad\= \quad\= \quad\= \quad\= \в
-                                                  Ђ™\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! Package inputenc Error: Invalid UTF-8 byte "80.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...quad\= \quad\= \quad\= \quad\= \quad\= \вЂ
-                                                  ™\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "99.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...uad\= \quad\= \quad\= \quad\= \quad\= \вЂ™
-                                                  \\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 \> \> \> \> \> \> \> \>  \> \> \> \> \>  \>
-                                                 \> \> \> \> \> \> \> \> \> ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...> \> \> \> \> \> \>  \> \> \> \> \>  \> \>
-                                                   \> \> \> \> \> \> \> \> \...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...> \> \> \> \> \>  \> \> \> \> \>  \> \> \>
-                                                   \> \> \> \> \> \> \> \>Р’...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...> \> \> \> \>  \> \> \> \> \>  \> \> \> \>
-                                                   \> \> \> \> \> \> \>Р’С‹Р...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...> \> \> \>  \> \> \> \> \>  \> \> \> \> \>
-                                                   \> \> \> \> \> \>Р’С‹РїРѕ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...> \> \>  \> \> \> \> \>  \> \> \> \> \> \>
-                                                   \> \> \> \> \>Р’С‹РїРѕР»Р...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...> \>  \> \> \> \> \>  \> \> \> \> \> \> \>
-                                                   \> \> \> \>Р’С‹РїРѕР»РЅРё...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...>  \> \> \> \> \>  \> \> \> \> \> \> \> \>
-                                                   \> \> \>Р’С‹РїРѕР»РЅРёР»:...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...\> \> \> \> \>  \> \> \> \> \> \> \> \> \>
-                                                   \> \>Р’С‹РїРѕР»РЅРёР»:\вЂ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...\> \> \> \>  \> \> \> \> \> \> \> \> \> \>
-                                                   \>Р’С‹РїРѕР»РЅРёР»:\вЂ™ \\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...\> \> \>  \> \> \> \> \> \> \> \> \> \> \>
-                                                  Р’С‹РїРѕР»РЅРёР»:\вЂ™ \\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-l.86 ...\> \> \> \> \> \> \> \>Р’С‹РїРѕР»РЅРёР»:\в
-                                                  Ђ™ \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! Package inputenc Error: Invalid UTF-8 byte "80.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ...> \> \> \> \> \> \> \>Р’С‹РїРѕР»РЅРёР»:\вЂ
-                                                  ™ \\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "99.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.86 ... \> \> \> \> \> \> \>Р’С‹РїРѕР»РЅРёР»:\вЂ™
-                                                   \\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 \> \> \> \> \> \> \> \>  \> \> \> \> \>  \>
-                                                 \> \> \> \> \> \> \> \> \> ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...> \> \> \> \> \> \>  \> \> \> \> \>  \> \>
-                                                   \> \> \> \> \> \> \> \> \...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...> \> \> \> \> \>  \> \> \> \> \>  \> \> \>
-                                                   \> \> \> \> \> \> \> \>СЃ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...> \> \> \> \>  \> \> \> \> \>  \> \> \> \>
-                                                   \> \> \> \> \> \> \>СЃС‚С...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...> \> \> \>  \> \> \> \> \>  \> \> \> \> \>
-                                                   \> \> \> \> \> \>СЃС‚СѓРґ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...> \> \>  \> \> \> \> \>  \> \> \> \> \> \>
-                                                   \> \> \> \> \>СЃС‚СѓРґРµР...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...> \>  \> \> \> \> \>  \> \> \> \> \> \> \>
-                                                   \> \> \> \>СЃС‚СѓРґРµРЅС‚...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...>  \> \> \> \> \>  \> \> \> \> \> \> \> \>
-                                                   \> \> \>СЃС‚СѓРґРµРЅС‚ Р—...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...\> \> \> \> \>  \> \> \> \> \> \> \> \> \>
-                                                   \> \>СЃС‚СѓРґРµРЅС‚ Р—РљР...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...\> \> \> \>  \> \> \> \> \> \> \> \> \> \>
-                                                   \>СЃС‚СѓРґРµРЅС‚ Р—РљР21...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.87 ...\> \> \>  \> \> \> \> \> \> \> \> \> \> \>
-                                                  СЃС‚СѓРґРµРЅС‚ Р—РљР21-16...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88  \> \> \> \> \> \> \> \>  \> \> \> \> \>  \>
-                                                  \> \> \> \> \> \> \> \> \>...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...> \> \> \> \> \> \>  \> \> \> \> \>  \> \>
-                                                   \> \> \> \> \> \> \> \> \...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...> \> \> \> \> \>  \> \> \> \> \>  \> \> \>
-                                                   \> \> \> \> \> \> \> \>РҐ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...> \> \> \> \>  \> \> \> \> \>  \> \> \> \>
-                                                   \> \> \> \> \> \> \>РҐРѕС...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...> \> \> \>  \> \> \> \> \>  \> \> \> \> \>
-                                                   \> \> \> \> \> \>РҐРѕСЂРѕ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...> \> \>  \> \> \> \> \>  \> \> \> \> \> \>
-                                                   \> \> \> \> \>РҐРѕСЂРѕС€Р...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...> \>  \> \> \> \> \>  \> \> \> \> \> \> \>
-                                                   \> \> \> \>РҐРѕСЂРѕС€РєРѕ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...>  \> \> \> \> \>  \> \> \> \> \> \> \> \>
-                                                   \> \> \>РҐРѕСЂРѕС€РєРѕ Р•...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...\> \> \> \> \>  \> \> \> \> \> \> \> \> \>
-                                                   \> \>РҐРѕСЂРѕС€РєРѕ Р•.Рњ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...\> \> \> \>  \> \> \> \> \> \> \> \> \> \>
-                                                   \>РҐРѕСЂРѕС€РєРѕ Р•.Рњ.\в...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...\> \> \>  \> \> \> \> \> \> \> \> \> \> \>
-                                                  РҐРѕСЂРѕС€РєРѕ Р•.Рњ.\вЂ™ ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-l.88 ...> \> \> \> \> \> \>РҐРѕСЂРѕС€РєРѕ Р•.Рњ.\в
-                                                  Ђ™ \\\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! Package inputenc Error: Invalid UTF-8 byte "80.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ... \> \> \> \> \> \>РҐРѕСЂРѕС€РєРѕ Р•.Рњ.\вЂ
-                                                  ™ \\\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "99.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.88 ...\> \> \> \> \> \>РҐРѕСЂРѕС€РєРѕ Р•.Рњ.\вЂ™
-                                                   \\\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 \> \> \> \> \> \> \> \>  \> \> \> \> \>  \>
-                                                 \> \> \> \> \> \> \>  \> \>...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \> \> \> \> \> \>  \> \> \> \> \>  \> \>
-                                                   \> \> \> \> \> \>  \> \> ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \> \> \> \> \>  \> \> \> \> \>  \> \> \>
-                                                   \> \> \> \> \>  \> \> \> ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \> \> \> \>  \> \> \> \> \>  \> \> \> \>
-                                                   \> \> \> \>  \> \> \> РџС...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \> \> \>  \> \> \> \> \>  \> \> \> \> \>
-                                                   \> \> \>  \> \> \> РџСЂРѕ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \> \>  \> \> \> \> \>  \> \> \> \> \> \>
-                                                   \> \>  \> \> \> РџСЂРѕРІР...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \>  \> \> \> \> \>  \> \> \> \> \> \> \>
-                                                   \>  \> \> \> РџСЂРѕРІРµСЂ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...>  \> \> \> \> \>  \> \> \> \> \> \> \> \>
-                                                    \> \> \> РџСЂРѕРІРµСЂРёР...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \> \> \> \>  \> \> \> \> \> \> \> \>  \>
-                                                   \> \> РџСЂРѕРІРµСЂРёР»:\в...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \> \> \>  \> \> \> \> \> \> \> \>  \> \>
-                                                   \> РџСЂРѕРІРµСЂРёР»:\вЂ™\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \> \>  \> \> \> \> \> \> \> \>  \> \> \>
-                                                   РџСЂРѕРІРµСЂРёР»:\вЂ™\\
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-l.90 ... \> \> \> \>  \> \> \> РџСЂРѕРІРµСЂРёР»:\в
-                                                  Ђ™\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! Package inputenc Error: Invalid UTF-8 byte "80.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...\> \> \> \>  \> \> \> РџСЂРѕРІРµСЂРёР»:\вЂ
-                                                  ™\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "99.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.90 ...> \> \> \>  \> \> \> РџСЂРѕРІРµСЂРёР»:\вЂ™
-                                                  \\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 \> \> \> \> \> \> \> \>  \> \> \> \> \>  \>
-                                                 \> \> \> \> \> \> \>  \> \>...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...> \> \> \> \> \> \>  \> \> \> \> \>  \> \>
-                                                   \> \> \> \> \> \>  \> \> ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...> \> \> \> \> \>  \> \> \> \> \>  \> \> \>
-                                                   \> \> \> \> \>  \> \> \> ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...> \> \> \> \>  \> \> \> \> \>  \> \> \> \>
-                                                   \> \> \> \>  \> \> \> РґР...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...> \> \> \>  \> \> \> \> \>  \> \> \> \> \>
-                                                   \> \> \>  \> \> \> РґРѕС†...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...> \> \>  \> \> \> \> \>  \> \> \> \> \> \>
-                                                   \> \>  \> \> \> РґРѕС†РµР...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...> \>  \> \> \> \> \>  \> \> \> \> \> \> \>
-                                                   \>  \> \> \> РґРѕС†РµРЅС‚...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...>  \> \> \> \> \>  \> \> \> \> \> \> \> \>
-                                                    \> \> \> РґРѕС†РµРЅС‚ Рє...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...> \> \> \> \>  \> \> \> \> \> \> \> \>  \>
-                                                   \> \> РґРѕС†РµРЅС‚ РєР°С„...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...> \> \> \>  \> \> \> \> \> \> \> \>  \> \>
-                                                   \> РґРѕС†РµРЅС‚ РєР°С„РµР...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...> \> \>  \> \> \> \> \> \> \> \>  \> \> \>
-                                                   РґРѕС†РµРЅС‚ РєР°С„РµРґСЂ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-l.91 ...†РµРЅС‚ РєР°С„РµРґСЂС‹ РРЎРЈ, Рє.С‚.РЅ.\в
-                                                  Ђ™ \\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! Package inputenc Error: Invalid UTF-8 byte "80.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...РµРЅС‚ РєР°С„РµРґСЂС‹ РРЎРЈ, Рє.С‚.РЅ.\вЂ
-                                                  ™ \\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "99.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...µРЅС‚ РєР°С„РµРґСЂС‹ РРЎРЈ, Рє.С‚.РЅ.\вЂ™
-                                                   \\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 \> \> \> \> \> \> \> \>  \> \> \> \> \>  \>
-                                                 \> \> \> \> \> \> \>  \> \>...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...> \> \> \> \> \> \>  \> \> \> \> \>  \> \>
-                                                   \> \> \> \> \> \>  \> \> ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...> \> \> \> \> \>  \> \> \> \> \>  \> \> \>
-                                                   \> \> \> \> \>  \> \> \> ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...> \> \> \> \>  \> \> \> \> \>  \> \> \> \>
-                                                   \> \> \> \>  \> \> \>  Р...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...> \> \> \>  \> \> \> \> \>  \> \> \> \> \>
-                                                   \> \> \>  \> \> \>  РРєР...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...> \> \>  \> \> \> \> \>  \> \> \> \> \> \>
-                                                   \> \>  \> \> \>  РРєРѕРЅ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...> \>  \> \> \> \> \>  \> \> \> \> \> \> \>
-                                                   \>  \> \> \>  РРєРѕРЅРЅР...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...>  \> \> \> \> \>  \> \> \> \> \> \> \> \>
-                                                    \> \> \>  РРєРѕРЅРЅРёРє...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...> \> \> \> \>  \> \> \> \> \> \> \> \>  \>
-                                                   \> \>  РРєРѕРЅРЅРёРєРѕРІ...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...> \> \> \>  \> \> \> \> \> \> \> \>  \> \>
-                                                   \>  РРєРѕРЅРЅРёРєРѕРІ Р’...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...> \> \>  \> \> \> \> \> \> \> \>  \> \> \>
-                                                    РРєРѕРЅРЅРёРєРѕРІ Р’. Р...
-
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-! Undefined control sequence.
-l.92 ...>  \> \> \>  РРєРѕРЅРЅРёРєРѕРІ Р’. Рћ. \в
-                                                  Ђ™ \\\\
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! Package inputenc Error: Invalid UTF-8 byte "80.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ...  \> \> \>  РРєРѕРЅРЅРёРєРѕРІ Р’. Рћ. \вЂ
-                                                  ™ \\\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
-
-
-! Package inputenc Error: Invalid UTF-8 byte "99.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.92 ... \> \> \>  РРєРѕРЅРЅРёРєРѕРІ Р’. Рћ. \вЂ™
-                                                   \\\\
-The document does not appear to be in UTF-8 encoding.
-Try adding \UseRawInputEncoding as the first line of the file
-or specify an encoding such as \usepackage [latin1]{inputenc}
-in the document preamble.
-Alternatively, save the file in UTF-8 using your editor or another tool
+(Font)              using `T2A/ftm/m/n' instead on input line 74.
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./ref.toc
-LaTeX Font Info:    Trying to load font information for OT1+ftm on input line 1
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./ref.toc
+LaTeX Font Info:    Trying to load font information for OT1+ftm on input line 3
 .
-LaTeX Font Info:    No file OT1ftm.fd. on input line 1.
+LaTeX Font Info:    No file OT1ftm.fd. on input line 3.
 
 
 LaTeX Font Warning: Font shape `OT1/ftm/m/n' undefined
-(Font)              using `OT1/cmr/m/n' instead on input line 1.
+(Font)              using `OT1/cmr/m/n' instead on input line 3.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 2.
+(Font)              <14.4> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 2.
+(Font)              <7> on input line 4.
 
 LaTeX Font Warning: Font shape `T2A/cmr/m/up' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 2.
+(Font)              using `T2A/cmr/m/n' instead on input line 4.
 
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 2.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 4.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
@@ -1887,7 +641,7 @@ File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 \tf@toc=\write3
 \openout3 = `ref.toc'.
 
- [3]
+ [2]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1895,32 +649,67 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.120 
-      
+l.104 \pagestyle
+                {plain}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+[3
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
+
+ []
+
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
+[5]
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--125
+! LaTeX Error: There's no line here to end.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
-
- []
-
-
-Overfull \hbox (39.3642pt too wide) in paragraph at lines 128--129
-\T2A/ftm/b/n/12 ки, обо-зна-чить ос-нов-ные по-ня-тия ин-фор-ма-ци-он-но-го под
--хо-да, сфор-му-ли-ро-ван-но-го А.А.Денисовым
- []
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.127 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 128--129
@@ -1933,70 +722,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--131
  []
 
 
-Overfull \hbox (11.31429pt too wide) in paragraph at lines 132--133
-[]\T2A/ftm/b/n/12 Предметом ис-сле-до-ва-ния бу-дет яв-лять-ся при-ме-не-ние ди
-а-лек-ти-че-ской ло-ги-ки, как логико-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
-[4
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 134--136
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
-
- []
-
-[5]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.143 
-      
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 146--147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 152--159
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
 
 [6
 
-] [7]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 136--143
+
+ []
+
+[7] [8]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2004,7 +746,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.170 
+l.154 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -2018,18 +760,18 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.174 ...І СЂР°Р·Р»РёС‡РЅС‹С… СЃРёСЃС‚РµРјР°С… в€’
+l.158 ...І СЂР°Р·Р»РёС‡РЅС‹С… СЃРёСЃС‚РµРјР°С… в€’
                                                    С‚РµС…РЅРёС‡РµСЃРєРёС…, Р...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 171--178
+Underfull \hbox (badness 10000) in paragraph at lines 155--162
 
  []
 
-[8
+[9
 
 ]
 
@@ -2040,7 +782,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 РіРґРµ $M$ в€’
+l.166 РіРґРµ $M$ в€’
                      РёР·РјРµСЂСЏРµРјРѕРµ РјР°С‚РµСЂРёР°Р»СЊРЅРѕРµ СЃРІРѕР№С...
 
 You may provide a definition with
@@ -2054,7 +796,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 ...ї.), СЃРѕР·РґР°СЋС‰РµРµ $J_c$; $J_РЅ$ в€’
+l.166 ...ї.), СЃРѕР·РґР°СЋС‰РµРµ $J_c$; $J_РЅ$ в€’
                                                    С‡СѓРІСЃС‚РІРµРЅРЅР°СЏ Рё...
 
 You may provide a definition with
@@ -2068,12 +810,13 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 ...·РѕРІР°С‚СЊ Р±РµР· РёРЅРґРµРєСЃР°; Rk в€’
+l.166 ...·РѕРІР°С‚СЊ Р±РµР· РёРЅРґРµРєСЃР°; Rk в€’
                                                    РѕС‚РЅРѕСЃРёС‚РµР»СЊРЅР°С...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
+[10]
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -2082,7 +825,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190 РіРґРµ $O$ в€’
+l.174 РіРґРµ $O$ в€’
                      РІРµРєС‚РѕСЂ РёРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚Рё РїРѕС‚РѕРєР° СЃ...
 
 You may provide a definition with
@@ -2096,7 +839,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.195 РіРґРµ $O_РЅ = R_k \cdot O$ в€’
+l.179 РіРґРµ $O_РЅ = R_k \cdot O$ в€’
                                       РІРµРєС‚РѕСЂ РёРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚Р...
 
 You may provide a definition with
@@ -2110,14 +853,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.195 ...ІРЅРѕСЃС‚Рё РѕС‚СЂР°Р¶РµРЅРёСЏ; $R_k$ в€’
+l.179 ...ІРЅРѕСЃС‚Рё РѕС‚СЂР°Р¶РµРЅРёСЏ; $R_k$ в€’
                                                    РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅР...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--196
+Underfull \hbox (badness 10000) in paragraph at lines 178--180
 
  []
 
@@ -2129,7 +872,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.203 РіРґРµ $E$ в€’
+l.187 РіРґРµ $E$ в€’
                      РІРµРєС‚РѕСЂ РЅР°РїСЂСЏР¶РµРЅРЅРѕСЃС‚Рё РїРѕР»СЏ Р»РѕРі...
 
 You may provide a definition with
@@ -2143,7 +886,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.203 ...»СЏ Р»РѕРіРёРєРё; $R = R_k \cdot R_o$ в€’
+l.187 ...»СЏ Р»РѕРіРёРєРё; $R = R_k \cdot R_o$ в€’
                                                    Р±РµР·СЂР°Р·РјРµСЂРЅР°СЏ ...
 
 You may provide a definition with
@@ -2157,14 +900,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.210 РіРґРµ $E$ в€’
+l.194 РіРґРµ $E$ в€’
                      РІРµРєС‚РѕСЂ РёРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚Рё Р»РѕРіРёРєРё (Р...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 217--218
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
 
  []
 
@@ -2176,7 +919,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.219 ..., Р° РІ С‡Р°СЃС‚РЅС‹С… СЃР»СѓС‡Р°СЏС… в€’
+l.203 ..., Р° РІ С‡Р°СЃС‚РЅС‹С… СЃР»СѓС‡Р°СЏС… в€’
                                                    РґРµРєР°СЂС‚РѕРІС‹Рј РїСЂ...
 
 You may provide a definition with
@@ -2190,13 +933,13 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.225 ...РіРѕ РІРІРѕРґРёС‚СЃСЏ РїР°СЂР°РјРµС‚СЂ Оі
+l.209 ...РіРѕ РІРІРѕРґРёС‚СЃСЏ РїР°СЂР°РјРµС‚СЂ Оі
                                                   , РєРѕС‚РѕСЂС‹Р№ РјРѕР¶РµС...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[9]
+[11]
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -2205,7 +948,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.231 РіРґРµ $J-i$ в€’
+l.215 РіРґРµ $J-i$ в€’
                        СЂРµР·СѓР»СЊС‚Р°С‚С‹ РёР·РјРµСЂРµРЅРёСЏ $A_i$; $n$ в€...
 
 You may provide a definition with
@@ -2219,7 +962,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.231 ...‚Р°С‚С‹ РёР·РјРµСЂРµРЅРёСЏ $A_i$; $n$ в€’
+l.215 ...‚Р°С‚С‹ РёР·РјРµСЂРµРЅРёСЏ $A_i$; $n$ в€’
                                                    РѕР±СЉРµРј РїРѕРЅСЏС‚РёСЏ...
 
 You may provide a definition with
@@ -2233,7 +976,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.231 ...СЏС‚РёРµРј РѕР±СЉРµРєС‚РѕРІ; $\gamma$ в€’
+l.215 ...СЏС‚РёРµРј РѕР±СЉРµРєС‚РѕРІ; $\gamma$ в€’
                                                    РїР°СЂР°РјРµС‚СЂ Р»РѕРіРё...
 
 You may provide a definition with
@@ -2247,7 +990,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.259 РіРґРµ $p_i'$ в€’
+l.243 РіРґРµ $p_i'$ в€’
                         РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РґРѕСЃС‚РёР¶РµРЅРёСЏ С†РµР»Рё...
 
 You may provide a definition with
@@ -2261,86 +1004,163 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.259 ... РґРѕСЃС‚РёР¶РµРЅРёСЏ С†РµР»Рё; $q_i$ в€’
+l.243 ... РґРѕСЃС‚РёР¶РµРЅРёСЏ С†РµР»Рё; $q_i$ в€’
                                                    РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ С‚...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--261
+Underfull \hbox (badness 10000) in paragraph at lines 242--245
 
  []
 
+[12]
 
 LaTeX Font Warning: Font shape `T2A/ftm/m/it' undefined
-(Font)              using `T2A/ftm/m/sl' instead on input line 262.
+(Font)              using `T2A/ftm/m/sl' instead on input line 246.
 
 
-Overfull \hbox (12.00896pt too wide) in paragraph at lines 269--269
-[]\T2A/ftm/m/sl/12 Детерминированный
+Overfull \hbox (30.64314pt too wide) in paragraph at lines 253--253
+[]\T2A/ftm/m/sl/14.4 Детерминированный
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 270--272
-\T2A/ftm/m/sl/12 где $\OML/cmm/m/it/12 A[]$ \T2A/ftm/m/sl/12 ^^U зна-че-ние
+Underfull \hbox (badness 3449) in paragraph at lines 253--253
+\T2A/ftm/m/sl/14.4 спо-соб из-ме-ре-
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 270--272
-\T2A/ftm/m/sl/12 из-ме-ря-е-мой ве-ли-чи-
+Underfull \hbox (badness 2809) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 где $\OML/cmm/m/it/14.4 A[]$ \T2A/ftm/m/sl/14.4 ^^U зна-че-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--272
-\T2A/ftm/m/sl/12 с точ-но-чтью до
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 ние из-ме-ря-е-мой
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--272
-\T2A/ftm/m/sl/12 ни-ма-ю-щее ре-ше-ние
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 ве-ли-чи-ны; $\OT1/cmr/m/n/14.4 ^^A\OML/cmm/m/it/14.4 A[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--272
-\T2A/ftm/m/sl/12 (ЛПР), ин-те-ре-су-ет
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 - ѕквантї, с
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--272
-\T2A/ftm/m/sl/12 вос-при-ни-ма-е-мая
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 точ-но-чтью до
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 270--272
-\T2A/ftm/m/sl/12 ю-щая спо-соб-ность
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 ко-то-ро-го ли-цо,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--276
-\T2A/ftm/m/sl/12 об охва-ты-ва-е-
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 при-ни-ма-ю-щее
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--276
-\T2A/ftm/m/sl/12 мых из-ме-ре-ни-ем
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 ре-ше-ние (ЛПР),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--276
-\T2A/ftm/m/sl/12 объ-ек-тах; $\OML/cmm/m/it/12 ^^M$ \T2A/ftm/m/sl/12 ^^U
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 ин-те-ре-су-ет вос-
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 279--281
-\T2A/ftm/m/sl/12 При $\OML/cmm/m/it/12 ^^M \OT1/cmr/m/n/12 = 0$ \T2A/ftm/m/sl/1
-2 0по-
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 при-ни-ма-е-мая
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 инор-ма-ция (еди-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 ни-ца из-ме-ре-ния,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 раз-ре-ша-ю-щая
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 254--256
+\T2A/ftm/m/sl/14.4 спо-соб-ность при-
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 257--260
+\OML/cmm/m/it/14.4 A[]$\T2A/ftm/m/sl/14.4 ; $\OML/cmm/m/it/14.4 n$ \T2A/ftm/m/s
+l/14.4 ^^U объ-ем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--260
+\T2A/ftm/m/sl/14.4 по-ня-тия об
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--260
+\T2A/ftm/m/sl/14.4 охва-ты-ва-е-мых
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--260
+\T2A/ftm/m/sl/14.4 из-ме-ре-ни-ем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--260
+\T2A/ftm/m/sl/14.4 объ-ек-тах; $\OML/cmm/m/it/14.4 ^^M$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--260
+\T2A/ftm/m/sl/14.4 ^^U па-ра-метр
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 262--263
+[]\T2A/ftm/m/sl/14.4 При $\OML/cmm/m/it/14.4 ^^M \OT1/cmr/m/n/14.4 = 1$
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 263--265
+\T2A/ftm/m/sl/14.4 При $\OML/cmm/m/it/14.4 ^^M \OT1/cmr/m/n/14.4 = 0$
+ []
+
+
+Underfull \hbox (badness 4569) in paragraph at lines 263--265
+\T2A/ftm/m/sl/14.4 0по-лу-чим сред-
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 263--265
+\T2A/ftm/m/sl/14.4 нее гео-мет-ри-че-
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 265--267
+\T2A/ftm/m/sl/14.4 При $\OML/cmm/m/it/14.4 ^^M \OT1/cmr/m/n/14.4 = \T2A/ftm/m/s
+l/14.4 ^^U\OT1/cmr/m/n/14.4 1$
  []
 
 ! Missing { inserted.
 <to be read again> 
                    }
-l.283 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^}
+l.267 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^}
                                              $$\\
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
@@ -2350,7 +1170,7 @@ so that I will find a matching right brace soon.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.283 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^} $
+l.267 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^} $
                                               $\\
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -2359,56 +1179,88 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--286
-[]\T2A/ftm/m/sl/12 Вероятностный
+Underfull \hbox (badness 10000) in paragraph at lines 270--270
+[]\T2A/ftm/m/sl/14.4 Вероятностный
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--290
-\T2A/ftm/m/sl/12 со-бы-тия. В слу-
+Underfull \hbox (badness 3449) in paragraph at lines 270--270
+\T2A/ftm/m/sl/14.4 спо-соб из-ме-ре-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--290
-\T2A/ftm/m/sl/12 чае ис-поль-зо-ва-ния
+Underfull \hbox (badness 1502) in paragraph at lines 272--274
+\T2A/ftm/m/sl/14.4 где $\OML/cmm/m/it/14.4 p[]$ \T2A/ftm/m/sl/14.4 ^^U ве-ро-ят
+-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--290
-\T2A/ftm/m/sl/12 ин-фор-ма-ции для
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+\T2A/ftm/m/sl/14.4 ность со-бы-тия.
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 288--290
-\T2A/ftm/m/sl/12 на-зы-ва-ют ве-ро-ят-но-
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+\T2A/ftm/m/sl/14.4 В слу-чае ис-
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 288--290
-\T2A/ftm/m/sl/12 стью недо-сти-же-ния
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+\T2A/ftm/m/sl/14.4 поль-зо-ва-ния
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 288--290
-\T2A/ftm/m/sl/12 це-ли или сте-пе-нью
+Underfull \hbox (badness 3354) in paragraph at lines 272--274
+\T2A/ftm/m/sl/14.4 ин-фор-ма-ции для
  []
 
 
-Overfull \hbox (0.18335pt too wide) in paragraph at lines 264--306
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+\T2A/ftm/m/sl/14.4 до-сти-же-ния це-
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 272--274
+\T2A/ftm/m/sl/14.4 ли pi на-зы-ва-ют
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+\T2A/ftm/m/sl/14.4 ве-ро-ят-но-стью
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--274
+\T2A/ftm/m/sl/14.4 неце-ле-со-об-раз-но-
+ []
+
+
+Overfull \hbox (24.93532pt too wide) detected at line 285
+\OML/cmm/m/it/14.4 p[] \OT1/cmr/m/n/14.4 = 1\OML/cmm/m/it/14.4 =n[]H \OT1/cmr/m
+/n/14.4 = \OMS/cmsy/m/n/14.4 ^^@ [] [] [] [] \OT1/cmr/m/n/14.4 = [] \OML/cmm/m/
+it/14.4 n:
+ []
+
+
+Overfull \hbox (3.70828pt too wide) in paragraph at lines 248--290
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--306
+Underfull \hbox (badness 10000) in paragraph at lines 248--290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--306
+Underfull \hbox (badness 10000) in paragraph at lines 248--290
 
  []
 
-[10]
+[13]
+Overfull \vbox (8.26025pt too high) has occurred while \output is active []
+
+
+[14]
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -2417,7 +1269,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308 ...Р°Р·Р»РёС‡РЅС‹РјРё СЃРїРѕСЃРѕР±Р°РјРё в€’
+l.292 ...Р°Р·Р»РёС‡РЅС‹РјРё СЃРїРѕСЃРѕР±Р°РјРё в€’
                                                    РґРµС‚РµСЂРјРёРЅРёСЂРѕРІР...
 
 You may provide a definition with
@@ -2431,7 +1283,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.308 ...РѕРЅРЅС‹С… С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРє в€’
+l.292 ...РѕРЅРЅС‹С… С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРє в€’
                                                    Рё РґРµС‚РµСЂРјРёРЅРёСЂРѕ...
 
 You may provide a definition with
@@ -2445,7 +1297,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309 ...СЂРѕСЏС‚РЅРѕСЃС‚РЅР°СЏ, Р° С‚Р°РєР¶Рµ в€’
+l.293 ...СЂРѕСЏС‚РЅРѕСЃС‚РЅР°СЏ, Р° С‚Р°РєР¶Рµ в€’
                                                    РїРµСЂРµС…РѕРґ РѕС‚ РѕРґР...
 
 You may provide a definition with
@@ -2459,7 +1311,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309 ...РЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ С€РєР°Р»С‹ в€’
+l.293 ...РЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ С€РєР°Р»С‹ в€’
                                                    РІРѕСЃСЊРјРµСЂРёС‡РЅС‹Рµ ...
 
 You may provide a definition with
@@ -2473,7 +1325,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309 ...СЊРјРµСЂРёС‡РЅС‹Рµ Р»РѕРіР°СЂРёС„РјС‹ в€’
+l.293 ...СЊРјРµСЂРёС‡РЅС‹Рµ Р»РѕРіР°СЂРёС„РјС‹ в€’
                                                    Р±Р°Р№С‚С‹  СѓР¶Рµ РЅР°С€...
 
 You may provide a definition with
@@ -2487,13 +1339,13 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.309 ...µ РїСЂРёРјРµРЅСЏСЋС‰РёРµСЃСЏ РїРѕРєР° в€’
+l.293 ...µ РїСЂРёРјРµРЅСЏСЋС‰РёРµСЃСЏ РїРѕРєР° в€’
                                                    РґРµСЃСЏС‚РёС‡РЅС‹Рµ Р»Рѕ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[11] [12]
+[15]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2501,23 +1353,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.316 
+l.300 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 LaTeX Font Info:    Trying to load font information for TS1+ftm on input line 3
-19.
-LaTeX Font Info:    No file TS1ftm.fd. on input line 319.
+03.
+LaTeX Font Info:    No file TS1ftm.fd. on input line 303.
 
 LaTeX Font Warning: Font shape `TS1/ftm/m/n' undefined
 (Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textbullet' on input line 319.
+(Font)              for symbol `textbullet' on input line 303.
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ftm in TS1 encoding.
-            Default family used instead on input line 319.
+            Default family used instead on input line 303.
 
 ! Package inputenc Error: Unicode character в€ћ (U+221E)
 (inputenc)                not set up for use with LaTeX.
@@ -2526,7 +1378,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.319 ...‚Рµ СЃРѕРіР»Р°СЃРЅРѕ H=J/n РїСЂРё nв†’в€ћ
+l.303 ...‚Рµ СЃРѕРіР»Р°СЃРЅРѕ H=J/n РїСЂРё nв†’в€ћ
                                                    РѕС‚ РЅРёС… РЅРёС‡РµРіРѕ ...
 
 You may provide a definition with
@@ -2540,7 +1392,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.322 ...ёСЏ. РџСѓСЃС‚СЊ J РµСЃС‚СЊ С‚РµР·РёСЃ, О”
+l.306 ...ёСЏ. РџСѓСЃС‚СЊ J РµСЃС‚СЊ С‚РµР·РёСЃ, О”
                                                   1J РµСЃС‚СЊ Р°РЅС‚РёС‚РµР·...
 
 You may provide a definition with
@@ -2554,7 +1406,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.322 ...·РёСЃ, С‚.Рµ. РѕС‚СЂРёС†Р°РЅРёРµ J, Р° О”
+l.306 ...·РёСЃ, С‚.Рµ. РѕС‚СЂРёС†Р°РЅРёРµ J, Р° О”
                                                   2J РµСЃС‚СЊ Р°РЅС‚РёР°РЅС‚...
 
 You may provide a definition with
@@ -2568,7 +1420,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.322 ...ѕРІР°РјРё, РµСЃР»Рё J РµСЃС‚СЊ A, С‚Рѕ О”
+l.306 ...ѕРІР°РјРё, РµСЃР»Рё J РµСЃС‚СЊ A, С‚Рѕ О”
                                                   1J РµСЃС‚СЊ В«РЅРµ AВ», Р°...
 
 You may provide a definition with
@@ -2582,15 +1434,21 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.322 ...Њ A, С‚Рѕ О”1J РµСЃС‚СЊ В«РЅРµ AВ», Р° О”
+l.306 ...Њ A, С‚Рѕ О”1J РµСЃС‚СЊ В«РЅРµ AВ», Р° О”
                                                   2J РµСЃС‚СЊ В«РЅРµ РЅРµ AВ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[13
 
-]
+Overfull \hbox (4.23372pt too wide) in paragraph at lines 301--315
+\T2A/ftm/m/sl/14.4 крет-ной мо-де-ли непре-рыв-но-го бы-тия. Пред-ло-жен-ная ло
+гико-гносеологическая
+ []
+
+[16
+
+] [17]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2598,13 +1456,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.334 
+l.318 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[14]
+[18]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2612,70 +1470,76 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.337 
+l.321 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 338--341
+Underfull \hbox (badness 10000) in paragraph at lines 322--325
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 342--345
+Underfull \hbox (badness 10000) in paragraph at lines 326--329
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 346--348
+Underfull \hbox (badness 10000) in paragraph at lines 330--332
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 349--351
+Underfull \hbox (badness 10000) in paragraph at lines 333--335
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--356
+Underfull \hbox (badness 10000) in paragraph at lines 336--340
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 358--362
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 364--365
-
- []
-
-[15
+[19
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 366--368
+Underfull \hbox (badness 10000) in paragraph at lines 342--346
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--371
+Underfull \hbox (badness 10000) in paragraph at lines 348--349
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
+Underfull \hbox (badness 10000) in paragraph at lines 350--352
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 353--355
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 374--377
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
 
  []
 
-[16]
+
+Overfull \hbox (1.01857pt too wide) in paragraph at lines 358--361
+[]\T2A/ftm/m/sl/14.4 Концепция ин-фор-ма-ци-он-но-го по-ля поз-во-ля-ет най-ти 
+ко-ли-че-ствен-ную оцен-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--361
+
+ []
+
+[21]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2683,23 +1547,23 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.380 \textbf
+l.364 \textbf
              {1. РўСЂРµР±РѕРІР°РЅРёСЏ Рє СЃРёСЃС‚РµРјРµ РІ С†РµР»РѕРј:} \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 380--384
+Underfull \hbox (badness 10000) in paragraph at lines 364--368
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--389
+Underfull \hbox (badness 10000) in paragraph at lines 369--373
 
  []
 
-[17
+[22
 
 ] (./ref.aux)
 
@@ -2710,29 +1574,28 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5981 strings out of 481239
- 84384 string characters out of 5920377
- 344556 words of memory out of 5000000
- 21154 multiletter control sequences out of 15000+600000
- 540078 words of font info for 42 fonts, out of 8000000 for 9000
+ 6004 strings out of 481239
+ 86680 string characters out of 5920377
+ 344126 words of memory out of 5000000
+ 21178 multiletter control sequences out of 15000+600000
+ 537762 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,13n,45p,2469b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,13n,45p,2469b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf
 /fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share
-/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/p
-ublic/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1
-200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on ref.pdf (17 pages, 180138 bytes).
+/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfrm1728.pfb>
+Output written on ref.pdf (22 pages, 154776 bytes).
 PDF statistics:
- 111 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
+ 119 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
