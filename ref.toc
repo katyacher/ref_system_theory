@@ -1,0 +1,7 @@
+\babel@toc {russian}{}
+\contentsline {chapter}{ВВЕДЕНИЕ}{4}%
+\contentsline {chapter}{1. Диалектика и диалектическая логика. Основные понятия. }{6}%
+\contentsline {chapter}{2. Информационный подход }{8}%
+\contentsline {chapter}{3. Особенности моделей диалектической логики в рамках информационного подхода }{13}%
+\contentsline {chapter}{ЗАКЛЮЧЕНИЕ }{15}%
+\contentsline {chapter}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{17}%
