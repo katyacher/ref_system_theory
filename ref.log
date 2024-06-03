@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.15)  3 JUN 2024 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.15)  3 JUN 2024 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -423,6 +423,28 @@ LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
 (/usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
 Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
 )
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen151
+\captionmargin@=\dimen152
+\captionwidth=\dimen153
+\caption@tempdima=\dimen154
+\caption@indent=\dimen155
+\caption@parindent=\dimen156
+\caption@hangindent=\dimen157
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count191
+\c@continuedfloat=\count192
+Package caption Info: longtable package is loaded.
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+))
 (/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
@@ -455,8 +477,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforefigskip=\skip82
 \cftfigindent=\skip83
 \cftfignumwidth=\skip84
-\c@lofdepth=\count191
-\c@lotdepth=\count192
+\c@lofdepth=\count193
+\c@lotdepth=\count194
 \cftbeforelottitleskip=\skip85
 \cftafterlottitleskip=\skip86
 \cftbeforetabskip=\skip87
@@ -468,16 +490,16 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 \ttl@box=\box51
 \beforetitleunit=\skip90
 \aftertitleunit=\skip91
-\ttl@plus=\dimen151
-\ttl@minus=\dimen152
+\ttl@plus=\dimen158
+\ttl@minus=\dimen159
 \ttl@toksa=\toks21
-\titlewidth=\dimen153
-\titlewidthlast=\dimen154
-\titlewidthfirst=\dimen155
+\titlewidth=\dimen160
+\titlewidthlast=\dimen161
+\titlewidthfirst=\dimen162
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count193
+\l__kernel_color_stack_int=\count195
 \l__pdf_internal_box=\box52
 )
 (./ref.aux
@@ -532,29 +554,29 @@ LaTeX Warning: Label `trivial' multiply defined.
 )
 \openout1 = `ref.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Trying to load font information for T2A+ftm on input line 4
-9.
-LaTeX Font Info:    No file T2Aftm.fd. on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Trying to load font information for T2A+ftm on input line 5
+2.
+LaTeX Font Info:    No file T2Aftm.fd. on input line 52.
 
 
 LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
-(Font)              using `T2A/cmr/m/n' instead on input line 49.
+(Font)              using `T2A/cmr/m/n' instead on input line 52.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -593,16 +615,16 @@ LaTeX Font Warning: Font shape `T2A/ftm/m/n' undefined
 \AtBeginShipoutBox=\box53
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count194
-\scratchdimen=\dimen156
+\scratchcounter=\count196
+\scratchdimen=\dimen163
 \scratchbox=\box54
-\nofMPsegments=\count195
-\nofMParguments=\count196
+\nofMPsegments=\count197
+\nofMParguments=\count198
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count197
-\MPscratchDim=\dimen157
-\MPnumerator=\count198
-\makeMPintoPDFobject=\count199
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen164
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
 \everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -621,13 +643,16 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
 
 LaTeX Font Warning: Font shape `T2A/ftm/b/n' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 54.
+(Font)              using `T2A/ftm/m/n' instead on input line 57.
 
 
 LaTeX Font Warning: Font shape `T2A/ftm/m/sl' undefined
-(Font)              using `T2A/ftm/m/n' instead on input line 74.
+(Font)              using `T2A/ftm/m/n' instead on input line 77.
 
 [1
 
@@ -664,7 +689,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.104 \pagestyle
+l.107 \pagestyle
                 {plain} \\
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -677,51 +702,51 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.105 
+l.108 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--111
+Underfull \hbox (badness 10000) in paragraph at lines 111--114
 
  []
 
 [3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--122
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
@@ -733,36 +758,36 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.129 
+l.132 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--141
+Underfull \hbox (badness 10000) in paragraph at lines 139--144
 
  []
 
 [6
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 142--153
+Underfull \hbox (badness 10000) in paragraph at lines 145--156
 
  []
 
@@ -774,7 +799,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.157 
+l.160 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -788,14 +813,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.161 ...І СЂР°Р·Р»РёС‡РЅС‹С… СЃРёСЃС‚РµРјР°С… в€’
+l.164 ...І СЂР°Р·Р»РёС‡РЅС‹С… СЃРёСЃС‚РµРјР°С… в€’
                                                    С‚РµС…РЅРёС‡РµСЃРєРёС…, Р...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--165
+Underfull \hbox (badness 10000) in paragraph at lines 161--168
 
  []
 
@@ -810,7 +835,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.169 РіРґРµ $M$ в€’
+l.172 РіРґРµ $M$ в€’
                      РёР·РјРµСЂСЏРµРјРѕРµ РјР°С‚РµСЂРёР°Р»СЊРЅРѕРµ СЃРІРѕР№С...
 
 You may provide a definition with
@@ -824,7 +849,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.169 ...ї.), СЃРѕР·РґР°СЋС‰РµРµ $J_c$; $J_РЅ$ в€’
+l.172 ...ї.), СЃРѕР·РґР°СЋС‰РµРµ $J_c$; $J_РЅ$ в€’
                                                    С‡СѓРІСЃС‚РІРµРЅРЅР°СЏ Рё...
 
 You may provide a definition with
@@ -838,7 +863,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.169 ...·РѕРІР°С‚СЊ Р±РµР· РёРЅРґРµРєСЃР°; Rk в€’
+l.172 ...·РѕРІР°С‚СЊ Р±РµР· РёРЅРґРµРєСЃР°; Rk в€’
                                                    РѕС‚РЅРѕСЃРёС‚РµР»СЊРЅР°С...
 
 You may provide a definition with
@@ -853,7 +878,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.177 РіРґРµ $O$ в€’
+l.180 РіРґРµ $O$ в€’
                      РІРµРєС‚РѕСЂ РёРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚Рё РїРѕС‚РѕРєР° СЃ...
 
 You may provide a definition with
@@ -867,7 +892,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 РіРґРµ $O_РЅ = R_k \cdot O$ в€’
+l.185 РіРґРµ $O_РЅ = R_k \cdot O$ в€’
                                       РІРµРєС‚РѕСЂ РёРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚Р...
 
 You may provide a definition with
@@ -881,14 +906,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.182 ...ІРЅРѕСЃС‚Рё РѕС‚СЂР°Р¶РµРЅРёСЏ; $R_k$ в€’
+l.185 ...ІРЅРѕСЃС‚Рё РѕС‚СЂР°Р¶РµРЅРёСЏ; $R_k$ в€’
                                                    РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅР...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--183
+Underfull \hbox (badness 10000) in paragraph at lines 184--186
 
  []
 
@@ -900,7 +925,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190 РіРґРµ $E$ в€’
+l.193 РіРґРµ $E$ в€’
                      РІРµРєС‚РѕСЂ РЅР°РїСЂСЏР¶РµРЅРЅРѕСЃС‚Рё РїРѕР»СЏ Р»РѕРі...
 
 You may provide a definition with
@@ -914,7 +939,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.190 ...»СЏ Р»РѕРіРёРєРё; $R = R_k \cdot R_o$ в€’
+l.193 ...»СЏ Р»РѕРіРёРєРё; $R = R_k \cdot R_o$ в€’
                                                    Р±РµР·СЂР°Р·РјРµСЂРЅР°СЏ ...
 
 You may provide a definition with
@@ -928,14 +953,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 РіРґРµ $E$ в€’
+l.200 РіРґРµ $E$ в€’
                      РІРµРєС‚РѕСЂ РёРЅС‚РµРЅСЃРёРІРЅРѕСЃС‚Рё Р»РѕРіРёРєРё (Р...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
+Underfull \hbox (badness 10000) in paragraph at lines 207--208
 
  []
 
@@ -947,7 +972,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.206 ..., Р° РІ С‡Р°СЃС‚РЅС‹С… СЃР»СѓС‡Р°СЏС… в€’
+l.209 ..., Р° РІ С‡Р°СЃС‚РЅС‹С… СЃР»СѓС‡Р°СЏС… в€’
                                                    РґРµРєР°СЂС‚РѕРІС‹Рј РїСЂ...
 
 You may provide a definition with
@@ -961,7 +986,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.212 ...РіРѕ РІРІРѕРґРёС‚СЃСЏ РїР°СЂР°РјРµС‚СЂ Оі
+l.215 ...РіРѕ РІРІРѕРґРёС‚СЃСЏ РїР°СЂР°РјРµС‚СЂ Оі
                                                   , РєРѕС‚РѕСЂС‹Р№ РјРѕР¶РµС...
 
 You may provide a definition with
@@ -976,7 +1001,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.218 РіРґРµ $J-i$ в€’
+l.221 РіРґРµ $J-i$ в€’
                        СЂРµР·СѓР»СЊС‚Р°С‚С‹ РёР·РјРµСЂРµРЅРёСЏ $A_i$; $n$ в€...
 
 You may provide a definition with
@@ -990,7 +1015,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.218 ...‚Р°С‚С‹ РёР·РјРµСЂРµРЅРёСЏ $A_i$; $n$ в€’
+l.221 ...‚Р°С‚С‹ РёР·РјРµСЂРµРЅРёСЏ $A_i$; $n$ в€’
                                                    РѕР±СЉРµРј РїРѕРЅСЏС‚РёСЏ...
 
 You may provide a definition with
@@ -1004,7 +1029,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.218 ...СЏС‚РёРµРј РѕР±СЉРµРєС‚РѕРІ; $\gamma$ в€’
+l.221 ...СЏС‚РёРµРј РѕР±СЉРµРєС‚РѕРІ; $\gamma$ в€’
                                                    РїР°СЂР°РјРµС‚СЂ Р»РѕРіРё...
 
 You may provide a definition with
@@ -1018,7 +1043,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.246 РіРґРµ $p_i'$ в€’
+l.249 РіРґРµ $p_i'$ в€’
                         РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РґРѕСЃС‚РёР¶РµРЅРёСЏ С†РµР»Рё...
 
 You may provide a definition with
@@ -1032,26 +1057,198 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.246 ... РґРѕСЃС‚РёР¶РµРЅРёСЏ С†РµР»Рё; $q_i$ в€’
+l.249 ... РґРѕСЃС‚РёР¶РµРЅРёСЏ С†РµР»Рё; $q_i$ в€’
                                                    РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ С‚...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--247
+Underfull \hbox (badness 10000) in paragraph at lines 248--251
 
  []
 
 [12]
-LaTeX Font Info:    Trying to load font information for TS1+ftm on input line 2
-50.
-LaTeX Font Info:    No file TS1ftm.fd. on input line 250.
 
+! LaTeX Error: Unknown float option `H'.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.254 \begin{table}[H]
+                      
+Option `H' ignored and `p' used.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 264.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 264.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 264.
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]\T2A/cmr/m/up/12 Детерминированный
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.272 ... СЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊ РїСЂРёР±РѕСЂР°) &
+                                                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 270--272
+\T2A/cmr/m/up/12 из-ме-ря-е-мой ве-ли-чи-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+\T2A/cmr/m/up/12 с точ-но-чтью до
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+\T2A/cmr/m/up/12 ни-ма-ю-щее ре-ше-ние
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+\T2A/cmr/m/up/12 (ЛПР), ин-те-ре-су-ет
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+\T2A/cmr/m/up/12 вос-при-ни-ма-е-мая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 270--272
+\T2A/cmr/m/up/12 ю-щая спо-соб-ность
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 273--276
+\OML/cmm/m/it/14.4 A[]$\T2A/cmr/m/up/14.4 ; $\OML/cmm/m/it/14.4 n$ \T2A/cmr/m/u
+p/14.4 ^^U объ-ем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
+\T2A/cmr/m/up/14.4 по-ня-тия об
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
+\T2A/cmr/m/up/14.4 охва-ты-ва-е-мых
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
+\T2A/cmr/m/up/14.4 из-ме-ре-ни-ем
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
+\T2A/cmr/m/up/14.4 объ-ек-тах; $\OML/cmm/m/it/14.4 ^^M$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--276
+\T2A/cmr/m/up/14.4 ^^U па-ра-метр
+ []
+
+! Missing { inserted.
+<inserted text> 
+                {
+l.276 ...РїР°СЂР°РјРµС‚СЂ СѓСЃСЂРµРґРЅРµРЅРёСЏ. }&
+                                                  
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Missing { inserted.
+<to be read again> 
+                   }
+l.283 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^}
+                                             $$}\\
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.283 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^} $
+                                              $}\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 2189) in paragraph at lines 286--286
+[]\T2A/cmr/m/up/12 Вероятностный спо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
+\T2A/cmr/m/up/12 со-бы-тия. В слу-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
+\T2A/cmr/m/up/12 чае ис-поль-зо-ва-ния
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--290
+\T2A/cmr/m/up/12 ин-фор-ма-ции для
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 288--290
+\T2A/cmr/m/up/12 на-зы-ва-ют ве-ро-ят-но-
+ []
+
+
+Underfull \hbox (badness 7468) in paragraph at lines 288--290
+\T2A/cmr/m/up/12 стью недо-сти-же-ния
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 288--290
+\T2A/cmr/m/up/12 це-ли или сте-пе-нью
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 \\
+        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Warning: Float too large for page by 11.21236pt on input line 307.
+
+LaTeX Font Info:    Trying to load font information for TS1+ftm on input line 3
+11.
+LaTeX Font Info:    No file TS1ftm.fd. on input line 311.
 
 LaTeX Font Warning: Font shape `TS1/ftm/m/n' undefined
 (Font)              using `TS1/cmr/m/n' instead
-(Font)              for symbol `textbullet' on input line 250.
+(Font)              for symbol `textbullet' on input line 311.
 
 
 ! Package inputenc Error: Unicode character О” (U+0394)
@@ -1061,7 +1258,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.252 С‚РµРјС‹ РІ С„РѕСЂРјРµ J = A/О”
+l.313 С‚РµРјС‹ РІ С„РѕСЂРјРµ J = A/О”
                                      A, РіРґРµ Рђ вЂ“ РѕР±С‰РµРµ РєРѕР»РёС‡Р...
 
 You may provide a definition with
@@ -1075,7 +1272,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.254 ...€РёРјРё РѕСЂРіР°РЅР°РјРё С‡СѓРІСЃС‚РІ; О”
+l.315 ...€РёРјРё РѕСЂРіР°РЅР°РјРё С‡СѓРІСЃС‚РІ; О”
                                                   A в€’ В«РєРІР°РЅС‚В», СЃ С...
 
 You may provide a definition with
@@ -1089,7 +1286,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.254 ...Рё РѕСЂРіР°РЅР°РјРё С‡СѓРІСЃС‚РІ; О”A в€’
+l.315 ...Рё РѕСЂРіР°РЅР°РјРё С‡СѓРІСЃС‚РІ; О”A в€’
                                                    В«РєРІР°РЅС‚В», СЃ С‚РѕС‡...
 
 You may provide a definition with
@@ -1103,7 +1300,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.258 ...РјРµСЂР° J = вЂ“log 2 p i, РіРґРµ p i в€’
+l.319 ...РјРµСЂР° J = вЂ“log 2 p i, РіРґРµ p i в€’
                                                    РІРµСЂРѕСЏС‚РЅРѕСЃС‚Рё СЃ...
 
 You may provide a definition with
@@ -1117,7 +1314,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.258 ...СЏ РґРѕСЃС‚РёР¶РµРЅРёСЏ С†РµР»Рё, p i в€’
+l.319 ...СЏ РґРѕСЃС‚РёР¶РµРЅРёСЏ С†РµР»Рё, p i в€’
                                                    РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РЅ...
 
 You may provide a definition with
@@ -1131,7 +1328,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.260 J = A/О”
+l.321 J = A/О”
               A = вЂ“log2 0,5 j = вЂ“log2 0,5A/О”A = вЂ“log 2 p, РіРґРµ p = ...
 
 You may provide a definition with
@@ -1145,7 +1342,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.260 J = A/О”A = вЂ“log2 0,5 j = вЂ“log2 0,5A/О”
+l.321 J = A/О”A = вЂ“log2 0,5 j = вЂ“log2 0,5A/О”
                                                  A = вЂ“log 2 p, РіРґРµ p = ...
 
 You may provide a definition with
@@ -1159,7 +1356,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.260 ...0,5A/О”A = вЂ“log 2 p, РіРґРµ p = 0,5A/О”
+l.321 ...0,5A/О”A = вЂ“log 2 p, РіРґРµ p = 0,5A/О”
                                                   A в€’ СЃРѕРІРјРµСЃС‚РёРјР°...
 
 You may provide a definition with
@@ -1173,7 +1370,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.260 ...О”A = вЂ“log 2 p, РіРґРµ p = 0,5A/О”A в€’
+l.321 ...О”A = вЂ“log 2 p, РіРґРµ p = 0,5A/О”A в€’
                                                    СЃРѕРІРјРµСЃС‚РёРјР°СЏ РІ...
 
 You may provide a definition with
@@ -1187,7 +1384,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.261 О”
+l.322 О”
         A СЃРѕР±С‹С‚РёР№, Р°РїСЂРёРѕСЂРЅР°СЏ РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РєР°Р¶Рґ...
 
 You may provide a definition with
@@ -1201,7 +1398,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.263 в€†
+l.324 в€†
          J = вЂ“log2 0,5 = 1 Р±РёС‚, РіРґРµ 0,5 в€’ РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ Р...
 
 You may provide a definition with
@@ -1215,268 +1412,12 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.263 ... = вЂ“log2 0,5 = 1 Р±РёС‚, РіРґРµ 0,5 в€’
+l.324 ... = вЂ“log2 0,5 = 1 Р±РёС‚, РіРґРµ 0,5 в€’
                                                    РІРµСЂРѕСЏС‚РЅРѕСЃС‚СЊ РЅ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 248--270
-
- []
-
-
-LaTeX Font Warning: Font shape `T2A/ftm/m/it' undefined
-(Font)              using `T2A/ftm/m/sl' instead on input line 271.
-
-
-Underfull \hbox (badness 6758) in paragraph at lines 277--277
-[]\T2A/ftm/m/sl/14.4 Информация вос-при-я-тия (чув-
- []
-
-
-Underfull \hbox (badness 2913) in paragraph at lines 277--277
-\T2A/ftm/m/sl/14.4 ствен-ная ин-фор-ма-ция) $\OML/cmm/m/it/14.4 J$ \T2A/ftm/m/s
-l/14.4 (эле-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
-[]\T2A/ftm/m/sl/14.4 Логическая ин-фор-ма-ция (ин-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 278--278
-\T2A/ftm/m/sl/14.4 фор-ма-ци-он-ный по-тен-ци-ал)
- []
-
-
-Overfull \hbox (10.0757pt too wide) in paragraph at lines 280--280
-[]\T2A/ftm/m/sl/14.4 Детерминирован-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 280--280
-\T2A/ftm/m/sl/14.4 ный спо-соб
- []
-
-
-Underfull \hbox (badness 2809) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 где $\OML/cmm/m/it/14.4 A[]$ \T2A/ftm/m/sl/14.4 ^^U зна-че-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 ние из-ме-ря-е-мой
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 ве-ли-чи-ны; $\OT1/cmr/m/n/14.4 ^^A\OML/cmm/m/it/14.4 A[]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 - ѕквантї, с
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 точ-но-чтью до
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 ко-то-ро-го ли-цо,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 при-ни-ма-ю-щее
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 ре-ше-ние (ЛПР),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 ин-те-ре-су-ет вос-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 при-ни-ма-е-мая
- []
-
-
-Underfull \hbox (badness 7558) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 инор-ма-ция (еди-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 ни-ца из-ме-ре-ния,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 раз-ре-ша-ю-щая
- []
-
-
-Underfull \hbox (badness 3118) in paragraph at lines 281--283
-\T2A/ftm/m/sl/14.4 спо-соб-ность при-
- []
-
-
-Underfull \hbox (badness 1038) in paragraph at lines 284--287
-\OML/cmm/m/it/14.4 A[]$\T2A/ftm/m/sl/14.4 ; $\OML/cmm/m/it/14.4 n$ \T2A/ftm/m/s
-l/14.4 ^^U объ-ем
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 284--287
-\T2A/ftm/m/sl/14.4 по-ня-тия об
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 284--287
-\T2A/ftm/m/sl/14.4 охва-ты-ва-е-мых
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 284--287
-\T2A/ftm/m/sl/14.4 из-ме-ре-ни-ем
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 284--287
-\T2A/ftm/m/sl/14.4 объ-ек-тах; $\OML/cmm/m/it/14.4 ^^M$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 284--287
-\T2A/ftm/m/sl/14.4 ^^U па-ра-метр
- []
-
-
-Underfull \hbox (badness 6188) in paragraph at lines 289--290
-[]\T2A/ftm/m/sl/14.4 При $\OML/cmm/m/it/14.4 ^^M \OT1/cmr/m/n/14.4 = 1$
- []
-
-
-Underfull \hbox (badness 3439) in paragraph at lines 292--294
-\T2A/ftm/m/sl/14.4 При $\OML/cmm/m/it/14.4 ^^M \OT1/cmr/m/n/14.4 = \T2A/ftm/m/s
-l/14.4 ^^U\OT1/cmr/m/n/14.4 1$
- []
-
-! Missing { inserted.
-<to be read again> 
-                   }
-l.294 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^}
-                                             $$\\
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.294 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^} $
-                                              $\\
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 297--297
-[]\T2A/ftm/m/sl/14.4 Вероятностный
- []
-
-
-Underfull \hbox (badness 3449) in paragraph at lines 297--297
-\T2A/ftm/m/sl/14.4 спо-соб из-ме-ре-
- []
-
-
-Underfull \hbox (badness 1502) in paragraph at lines 299--301
-\T2A/ftm/m/sl/14.4 где $\OML/cmm/m/it/14.4 p[]$ \T2A/ftm/m/sl/14.4 ^^U ве-ро-ят
--
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
-\T2A/ftm/m/sl/14.4 ность со-бы-тия.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
-\T2A/ftm/m/sl/14.4 В слу-чае ис-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
-\T2A/ftm/m/sl/14.4 поль-зо-ва-ния
- []
-
-
-Underfull \hbox (badness 3354) in paragraph at lines 299--301
-\T2A/ftm/m/sl/14.4 ин-фор-ма-ции для
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
-\T2A/ftm/m/sl/14.4 до-сти-же-ния це-
- []
-
-
-Underfull \hbox (badness 4872) in paragraph at lines 299--301
-\T2A/ftm/m/sl/14.4 ли pi на-зы-ва-ют
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
-\T2A/ftm/m/sl/14.4 ве-ро-ят-но-стью
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--301
-\T2A/ftm/m/sl/14.4 неце-ле-со-об-раз-но-
- []
-
-
-Overfull \hbox (24.93532pt too wide) detected at line 312
-\OML/cmm/m/it/14.4 p[] \OT1/cmr/m/n/14.4 = 1\OML/cmm/m/it/14.4 =n[]H \OT1/cmr/m
-/n/14.4 = \OMS/cmsy/m/n/14.4 ^^@ [] [] [] [] \OT1/cmr/m/n/14.4 = [] \OML/cmm/m/
-it/14.4 n:
- []
-
-
-Overfull \hbox (3.70828pt too wide) in paragraph at lines 273--317
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--317
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 273--317
-
- []
-
-[13]
-Overfull \vbox (52.60338pt too high) has occurred while \output is active []
-
-
-[14]
 
 ! Package inputenc Error: Unicode character в€’ (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -1485,7 +1426,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.319 ...Р°Р·Р»РёС‡РЅС‹РјРё СЃРїРѕСЃРѕР±Р°РјРё в€’
+l.331 ...Р°Р·Р»РёС‡РЅС‹РјРё СЃРїРѕСЃРѕР±Р°РјРё в€’
                                                    РґРµС‚РµСЂРјРёРЅРёСЂРѕРІР...
 
 You may provide a definition with
@@ -1499,7 +1440,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.319 ...РѕРЅРЅС‹С… С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРє в€’
+l.331 ...РѕРЅРЅС‹С… С…Р°СЂР°РєС‚РµСЂРёСЃС‚РёРє в€’
                                                    Рё РґРµС‚РµСЂРјРёРЅРёСЂРѕ...
 
 You may provide a definition with
@@ -1513,7 +1454,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.320 ...СЂРѕСЏС‚РЅРѕСЃС‚РЅР°СЏ, Р° С‚Р°РєР¶Рµ в€’
+l.332 ...СЂРѕСЏС‚РЅРѕСЃС‚РЅР°СЏ, Р° С‚Р°РєР¶Рµ в€’
                                                    РїРµСЂРµС…РѕРґ РѕС‚ РѕРґР...
 
 You may provide a definition with
@@ -1527,7 +1468,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.320 ...РЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ С€РєР°Р»С‹ в€’
+l.332 ...РЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕР№ С€РєР°Р»С‹ в€’
                                                    РІРѕСЃСЊРјРµСЂРёС‡РЅС‹Рµ ...
 
 You may provide a definition with
@@ -1541,7 +1482,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.320 ...СЊРјРµСЂРёС‡РЅС‹Рµ Р»РѕРіР°СЂРёС„РјС‹ в€’
+l.332 ...СЊРјРµСЂРёС‡РЅС‹Рµ Р»РѕРіР°СЂРёС„РјС‹ в€’
                                                    Р±Р°Р№С‚С‹  СѓР¶Рµ РЅР°С€...
 
 You may provide a definition with
@@ -1555,13 +1496,18 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.320 ...µ РїСЂРёРјРµРЅСЏСЋС‰РёРµСЃСЏ РїРѕРєР° в€’
+l.332 ...µ РїСЂРёРјРµРЅСЏСЋС‰РёРµСЃСЏ РїРѕРєР° в€’
                                                    РґРµСЃСЏС‚РёС‡РЅС‹Рµ Р»Рѕ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[15]
+
+Underfull \hbox (badness 10000) in paragraph at lines 309--334
+
+ []
+
+[13] [14] [15]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1569,7 +1515,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.327 
+l.339 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1577,10 +1523,10 @@ or  <return>  to continue without it.
 
 
 LaTeX Font Warning: Font shape `T2A/ftm/m/it' undefined
-(Font)              using `T2A/ftm/m/sl' instead on input line 335.
+(Font)              using `T2A/ftm/m/sl' instead on input line 347.
 
 
-Overfull \hbox (0.60611pt too wide) in paragraph at lines 330--336
+Overfull \hbox (0.60611pt too wide) in paragraph at lines 342--348
 \T2A/ftm/m/sl/14.4 Для ин-фор-ма-ции,как уни-вер-саль-ной ка-те-го-рии, опре-де
 -ля-е-мой в ка-че-стве про-
  []
@@ -1595,7 +1541,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.374 
+l.386 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1603,7 +1549,7 @@ or  <return>  to continue without it.
 
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ftm in TS1 encoding.
-            Default family used instead on input line 378.
+            Default family used instead on input line 390.
 
 ! Package inputenc Error: Unicode character в€ћ (U+221E)
 (inputenc)                not set up for use with LaTeX.
@@ -1612,7 +1558,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.378 ...‚Рµ СЃРѕРіР»Р°СЃРЅРѕ H=J/n РїСЂРё nв†’в€ћ
+l.390 ...‚Рµ СЃРѕРіР»Р°СЃРЅРѕ H=J/n РїСЂРё nв†’в€ћ
                                                    РѕС‚ РЅРёС… РЅРёС‡РµРіРѕ ...
 
 You may provide a definition with
@@ -1626,7 +1572,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.381 ...ёСЏ. РџСѓСЃС‚СЊ J РµСЃС‚СЊ С‚РµР·РёСЃ, О”
+l.393 ...ёСЏ. РџСѓСЃС‚СЊ J РµСЃС‚СЊ С‚РµР·РёСЃ, О”
                                                   1J РµСЃС‚СЊ Р°РЅС‚РёС‚РµР·...
 
 You may provide a definition with
@@ -1640,7 +1586,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.381 ...·РёСЃ, С‚.Рµ. РѕС‚СЂРёС†Р°РЅРёРµ J, Р° О”
+l.393 ...·РёСЃ, С‚.Рµ. РѕС‚СЂРёС†Р°РЅРёРµ J, Р° О”
                                                   2J РµСЃС‚СЊ Р°РЅС‚РёР°РЅС‚...
 
 You may provide a definition with
@@ -1654,7 +1600,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.381 ...ѕРІР°РјРё, РµСЃР»Рё J РµСЃС‚СЊ A, С‚Рѕ О”
+l.393 ...ѕРІР°РјРё, РµСЃР»Рё J РµСЃС‚СЊ A, С‚Рѕ О”
                                                   1J РµСЃС‚СЊ В«РЅРµ AВ», Р°...
 
 You may provide a definition with
@@ -1668,14 +1614,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.381 ...Њ A, С‚Рѕ О”1J РµСЃС‚СЊ В«РЅРµ AВ», Р° О”
+l.393 ...Њ A, С‚Рѕ О”1J РµСЃС‚СЊ В«РЅРµ AВ», Р° О”
                                                   2J РµСЃС‚СЊ В«РЅРµ РЅРµ AВ...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--388
+Underfull \hbox (badness 10000) in paragraph at lines 388--400
 
  []
 
@@ -1689,7 +1635,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.392 \\Р
+l.404 \\Р
          ¤РёР»РѕСЃРѕС„РёСЏ Рё С‚РµРѕСЂРёСЏ СЃРёСЃС‚РµРј: - "..РєР°С‚РµРіРѕСЂ...
 
 Your command was ignored.
@@ -1703,7 +1649,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.400 
+l.412 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1717,72 +1663,72 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.403 
+l.415 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--407
+Underfull \hbox (badness 10000) in paragraph at lines 416--419
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 408--411
+Underfull \hbox (badness 10000) in paragraph at lines 420--423
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--414
+Underfull \hbox (badness 10000) in paragraph at lines 424--426
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 415--417
+Underfull \hbox (badness 10000) in paragraph at lines 427--429
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--422
+Underfull \hbox (badness 10000) in paragraph at lines 430--434
 
  []
 
 [22
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 424--428
+Underfull \hbox (badness 10000) in paragraph at lines 436--440
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 430--431
+Underfull \hbox (badness 10000) in paragraph at lines 442--443
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--434
+Underfull \hbox (badness 10000) in paragraph at lines 444--446
 
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 435--437
+Underfull \hbox (badness 10000) in paragraph at lines 447--449
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
+Underfull \hbox (badness 10000) in paragraph at lines 450--451
 
  []
 
 
-Overfull \hbox (1.01857pt too wide) in paragraph at lines 440--443
+Overfull \hbox (1.01857pt too wide) in paragraph at lines 452--455
 []\T2A/ftm/m/sl/14.4 Концепция ин-фор-ма-ци-он-но-го по-ля поз-во-ля-ет най-ти 
 ко-ли-че-ствен-ную оцен-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 440--443
+Underfull \hbox (badness 10000) in paragraph at lines 452--455
 
  []
 
@@ -1794,7 +1740,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.446 1
+l.458 1
        . Р’РёРЅРѕРіСЂР°РґРѕРІ РЎ.Рќ., РљСѓР·СЊРјРёРЅ Рђ.Р¤. Р›РѕРіРёРєР°: Сѓ...
 
 Your command was ignored.
@@ -1809,7 +1755,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.450 ...СЃРёСЃС‚РµРј / Р’.Рќ. Р’РѕР»РєРѕРІР°. в€’
+l.462 ...СЃРёСЃС‚РµРј / Р’.Рќ. Р’РѕР»РєРѕРІР°. в€’
                                                    РЎРџР±.: РР·Рґ-РІРѕ РџРѕ...
 
 You may provide a definition with
@@ -1823,7 +1769,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.450 ...Рѕ РџРѕР»РёС‚РµС…РЅ. СѓРЅ-С‚Р°, 2012. в€’
+l.462 ...Рѕ РџРѕР»РёС‚РµС…РЅ. СѓРЅ-С‚Р°, 2012. в€’
                                                    280 СЃ.\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1836,13 +1782,13 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.453 ...џРѕР»РёС‚РµС…РЅ . СѓРЅ - С‚Р° , 2005. в€’
+l.465 ...џРѕР»РёС‚РµС…РЅ . СѓРЅ - С‚Р° , 2005. в€’
                                                    296 СЃ \\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 446--455
+Underfull \hbox (badness 10000) in paragraph at lines 458--467
 
  []
 
@@ -1857,28 +1803,33 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6009 strings out of 481239
- 86758 string characters out of 5920377
- 344126 words of memory out of 5000000
- 21183 multiletter control sequences out of 15000+600000
- 537762 words of font info for 36 fonts, out of 8000000 for 9000
+ 7175 strings out of 481239
+ 107811 string characters out of 5920377
+ 366614 words of memory out of 5000000
+ 22329 multiletter control sequences out of 15000+600000
+ 543265 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,13n,45p,2469b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf
-/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texlive/texmf-dist/fonts
+ 41i,15n,45p,2469b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texmf
+/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></
-usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/font
-s/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-su
-per/sfrm1728.pfb>
-Output written on ref.pdf (25 pages, 167487 bytes).
+onts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf/fonts/type1/p
+ublic/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1
+000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/
+texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/pu
+blic/cm-super/sfrm1728.pfb>
+Output written on ref.pdf (25 pages, 223100 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 91 compressed objects within 1 object stream
+ 154 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
