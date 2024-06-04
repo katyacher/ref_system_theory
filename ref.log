@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.15)  4 JUN 2024 10:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.15)  4 JUN 2024 10:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1350,15 +1350,21 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (3.00734pt too wide) in paragraph at lines 449--452
+Overfull \hbox (3.00734pt too wide) in paragraph at lines 444--447
 |  \T2A/cmr/m/up/14.4 ^^V чув-ствен-ная ин-фор-ма-ция (ин-фор-ма-ция вос-при-я-
 тия), ло-ги-че-ская и праг-
  []
 
 
-Overfull \hbox (1.01857pt too wide) in paragraph at lines 453--455
+Overfull \hbox (1.01857pt too wide) in paragraph at lines 448--450
 []\T2A/cmr/m/up/14.4 Концепция ин-фор-ма-ци-он-но-го по-ля поз-во-ля-ет най-ти 
 ко-ли-че-ствен-ную оцен-
+ []
+
+
+Overfull \hbox (1.78084pt too wide) in paragraph at lines 456--457
+[]\T2A/cmr/m/up/14.4 Информационный под-ход при-ме-ня-ет-ся для срав-ни-тель-но
+-го ана-ли-за иерар-
  []
 
 [20
@@ -1371,7 +1377,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.485 
+l.490 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1385,7 +1391,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.492 ...ЂРµС€РµРЅРёР№/ Р’.Рќ. Р’РѕР»РєРѕРІР°. в€’
+l.497 ...ЂРµС€РµРЅРёР№/ Р’.Рќ. Р’РѕР»РєРѕРІР°. в€’
                                                     РЎРџР±.: РР·Рґ-РІРѕ РџР...
 
 You may provide a definition with
@@ -1399,7 +1405,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.504 ... РљР°РЅС‚Р°. вЂ”  2013. вЂ”  Р’С‹Рї.6.в€’
+l.509 ... РљР°РЅС‚Р°. вЂ”  2013. вЂ”  Р’С‹Рї.6.в€’
                                                     c.7вЂ”15.
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1437,7 +1443,7 @@ texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/pu
 blic/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm12
 00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/t
 exmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on ref.pdf (22 pages, 218087 bytes).
+Output written on ref.pdf (22 pages, 218101 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
  99 compressed objects within 1 object stream
