@@ -2,7 +2,7 @@
 \pagestyle {empty}
 \babel@toc {russian}{}
 \contentsline {chapter}{ВВЕДЕНИЕ}{3}%
-\contentsline {chapter}{1. Диалектика и диалектическая логика. Основные понятия. }{6}%
+\contentsline {chapter}{1. Диалектика, диалектическая и формальная логика. Основные законы }{6}%
 \contentsline {chapter}{2. Информационный подход }{8}%
 \contentsline {chapter}{3. Особенности моделей диалектической логики}{14}%
 \contentsline {chapter}{4. Формализация законов диалектической логики }{17}%
