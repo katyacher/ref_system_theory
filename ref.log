@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.15)  3 JUN 2024 22:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.3.15)  4 JUN 2024 08:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -708,50 +708,10 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--113
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-
- []
-
 [3
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--126
-
- []
-
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
@@ -763,64 +723,11 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.133 
+l.132 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-
- []
-
-! Undefined control sequence.
-<recently read> \tab 
-                     
-l.141 \tab
-          	– перехода количественных изменен�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \tab 
-                     
-l.142 \tab
-          	– единства и борьбы противоположно...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<recently read> \tab 
-                     
-l.143 \tab
-          	–  отрицания отрицания [6, c. 43 6. Крат�...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 140--145
-
- []
 
 [6
 
@@ -828,7 +735,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--145
 ! Undefined control sequence.
 <recently read> \tab 
                      
-l.152 \tab
+l.153 \tab
            – определенность, \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -839,7 +746,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \tab 
                      
-l.153 \tab
+l.154 \tab
            – непротиворечивость, \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -850,7 +757,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \tab 
                      
-l.154 \tab
+l.155 \tab
            – последовательность, \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -861,8 +768,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \tab 
                      
-l.155 \tab
-           – обоснованность.[стр 85 Виноградов ...
+l.156 \tab
+           – обоснованность.[3, c.85]\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -870,21 +777,11 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 146--156
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--158
+Underfull \hbox (badness 10000) in paragraph at lines 152--157
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 159--160
-
- []
-
-[8]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -892,23 +789,13 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.164 
+l.163 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--166
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
-
- []
-
-
 ! Package inputenc Error: Unicode character − (U+2212)
 (inputenc)                not set up for use with LaTeX.
 
@@ -916,26 +803,16 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.170 ...� различных системах −
+l.169 ...� различных системах −
                                                    технических, �...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
-
- []
-
-[9
+[8
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 172--173
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
@@ -947,8 +824,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179 где $M$ −
-                     измеряемое материальное свой�...
+l.180 где $M \mbox{ –} $ −
+                                  измеряемое материальн�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -961,7 +838,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179 ...�.), создающее $J_c$; $J_н$ −
+l.180 ...�ающее $J_c$; $J_н \mbox{ –}$ −
                                                    чувственная и...
 
 You may provide a definition with
@@ -975,18 +852,18 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.179 ...�овать без индекса; Rk −
+l.180 ...�з индекса; $R_k \mbox{ –}$ −
                                                    относительна�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--180
+Underfull \hbox (badness 10000) in paragraph at lines 179--181
 
  []
 
-[10]
+[9]
 
 ! Package inputenc Error: Unicode character − (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -995,8 +872,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.188 где $O$ −
-                     вектор интенсивности потока с...
+l.189 где $O \mbox{ –}$ −
+                                 вектор интенсивности п�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1009,8 +886,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193 где $O_н = R_k \cdot O$ −
-                                      вектор интенсивност�...
+l.194 где $O_н = R_k \cdot O \mbox{ –}$ −
+                                                  вектор интенс�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1023,14 +900,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.193 ...�ности отражения; $R_k$ −
+l.194 ...отражения; $R_k \mbox{ –}$ −
                                                    информационн�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 192--194
+Underfull \hbox (badness 10000) in paragraph at lines 193--195
 
  []
 
@@ -1042,8 +919,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.201 где $E$ −
-                     вектор напряженности поля лог...
+l.202 где $E \mbox{ –}$ −
+                                 вектор напряженности п�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1056,7 +933,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.201 ...�я логики; $R = R_k \cdot R_o$ −
+l.202 ...ки; $R = R_k \cdot R_o \mbox{ –}$ −
                                                    безразмерная ...
 
 You may provide a definition with
@@ -1070,14 +947,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.208 где $E$ −
+l.209 где $E$ −
                      вектор интенсивности логики (�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 215--216
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
@@ -1089,13 +966,13 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.217 ..., а в частных случаях −
+l.218 ..., а в частных случаях −
                                                    декартовым пр...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[11]
+[10]
 
 ! Package inputenc Error: Unicode character γ (U+03B3)
 (inputenc)                not set up for use with LaTeX.
@@ -1104,7 +981,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.223 ...го вводится параметр γ
+l.224 ...го вводится параметр γ
                                                   , который може�...
 
 You may provide a definition with
@@ -1118,8 +995,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.229 где $J-i$ −
-                       результаты измерения $A_i$; $n$ �...
+l.230 где $J-i \mbox{ –}$ −
+                                   результаты измерения $...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1132,7 +1009,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.229 ...�аты измерения $A_i$; $n$ −
+l.230 ...мерения $A_i$; $n \mbox{ –}$ −
                                                    объем понятия...
 
 You may provide a definition with
@@ -1146,13 +1023,12 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.229 ...ятием объектов; $\gamma$ −
+l.230 ...�бъектов; $\gamma \mbox{ –}$ −
                                                    параметр логи...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[12]
 
 ! Package inputenc Error: Unicode character − (U+2212)
 (inputenc)                not set up for use with LaTeX.
@@ -1161,8 +1037,8 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.257 где $p_i'$ −
-                        вероятность достижения цели...
+l.258 где $p_i' \mbox{ –}$ −
+                                    вероятность достижен�...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
@@ -1175,17 +1051,18 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.257 ... достижения цели; $q_i$ −
+l.258 ...�ения цели; $q_i \mbox{ –}$ −
                                                    вероятность т...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--258
+Underfull \hbox (badness 10000) in paragraph at lines 257--259
 
  []
 
+[11]
 
 ! LaTeX Error: Unknown float option `H'.
 
@@ -1193,95 +1070,95 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.259 \begin{table}[H]
+l.260 \begin{table}[H]
                       
 Option `H' ignored and `p' used.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 269.
+(Font)              <12> on input line 270.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 269.
+(Font)              <8> on input line 270.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 269.
+(Font)              <6> on input line 270.
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--274
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
 []\T2A/cmr/m/up/12 �����������������
  []
 
 ! Missing } inserted.
 <inserted text> 
                 }
-l.277 ... способность прибора) &
+l.278 ... способность прибора) &
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 275--277
+Underfull \hbox (badness 2818) in paragraph at lines 276--278
 \T2A/cmr/m/up/12 ��-��-��-�-��� ��-��-��-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--277
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
 \T2A/cmr/m/up/12 � ���-��-���� ��
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--277
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
 \T2A/cmr/m/up/12 ��-��-�-��� ��-��-���
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--277
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
 \T2A/cmr/m/up/12 (���), ��-��-��-��-��
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--277
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
 \T2A/cmr/m/up/12 ���-���-��-��-�-���
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 275--277
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
 \T2A/cmr/m/up/12 �-��� ���-���-�����
  []
 
 
-Underfull \hbox (badness 1038) in paragraph at lines 278--281
+Underfull \hbox (badness 1038) in paragraph at lines 279--282
 \OML/cmm/m/it/14.4 A[]$\T2A/cmr/m/up/14.4 ; $\OML/cmm/m/it/14.4 n$ \T2A/cmr/m/u
 p/14.4 ^^U ���-��
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--281
+Underfull \hbox (badness 10000) in paragraph at lines 279--282
 \T2A/cmr/m/up/14.4 ��-��-��� ��
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--281
+Underfull \hbox (badness 10000) in paragraph at lines 279--282
 \T2A/cmr/m/up/14.4 ����-��-��-�-���
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--281
+Underfull \hbox (badness 10000) in paragraph at lines 279--282
 \T2A/cmr/m/up/14.4 ��-��-��-��-��
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--281
+Underfull \hbox (badness 10000) in paragraph at lines 279--282
 \T2A/cmr/m/up/14.4 ���-��-���; $\OML/cmm/m/it/14.4 ^^M$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--281
+Underfull \hbox (badness 10000) in paragraph at lines 279--282
 \T2A/cmr/m/up/14.4 ^^U ��-��-����
  []
 
 ! Missing { inserted.
 <inserted text> 
                 {
-l.281 ...параметр усреднения. }&
+l.282 ...параметр усреднения. }&
                                                   
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -1290,7 +1167,7 @@ Try to go on, since this might almost work.
 ! Missing { inserted.
 <to be read again> 
                    }
-l.288 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^}
+l.289 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^}
                                              $$}\\
 A left brace was mandatory here, so I've put one in.
 You might want to delete and/or insert some corrections
@@ -1300,7 +1177,7 @@ so that I will find a matching right brace soon.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.288 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^} $
+l.289 $$H = n\ \sum_{i = 1}^n \frac{1}{J_i^} $
                                               $}\\
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1309,37 +1186,37 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 291--291
+Underfull \hbox (badness 2189) in paragraph at lines 292--292
 []\T2A/cmr/m/up/12 ������������� ���-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--295
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
 \T2A/cmr/m/up/12 ��-��-���. � ���-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--295
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
 \T2A/cmr/m/up/12 ��� ��-����-��-��-���
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 293--295
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
 \T2A/cmr/m/up/12 ��-���-��-��� ���
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 293--295
+Underfull \hbox (badness 2384) in paragraph at lines 294--296
 \T2A/cmr/m/up/12 ��-��-��-�� ��-��-��-��-
  []
 
 
-Underfull \hbox (badness 7468) in paragraph at lines 293--295
+Underfull \hbox (badness 7468) in paragraph at lines 294--296
 \T2A/cmr/m/up/12 ���� ����-���-��-���
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 293--295
+Underfull \hbox (badness 3118) in paragraph at lines 294--296
 \T2A/cmr/m/up/12 ��-�� ��� ���-��-���
  []
 
@@ -1350,14 +1227,14 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.310 \\
+l.311 \\
         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-LaTeX Warning: Float too large for page by 11.21236pt on input line 312.
+LaTeX Warning: Float too large for page by 11.21236pt on input line 313.
 
 
 ! LaTeX Error: There's no line here to end.
@@ -1366,7 +1243,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.314 �
+l.315 �
        � дискретном варианте теории информац...
 
 Your command was ignored.
@@ -1381,7 +1258,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.315 ... чувств; $\Delta A \mbox{ –}$ −
+l.316 ... чувств; $\Delta A \mbox{ –}$ −
                                                    «квант», с точ...
 
 You may provide a definition with
@@ -1395,7 +1272,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.317 ...�log_2 p_i$, где $p_i \mbox{ –}$ −
+l.318 ...�log_2 p_i$, где $p_i \mbox{ –}$ −
                                                    вероятности с...
 
 You may provide a definition with
@@ -1409,7 +1286,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.317 ...�ения цели, $p_i \mbox{ –}$ −
+l.318 ...�ения цели, $p_i \mbox{ –}$ −
                                                    вероятность н...
 
 You may provide a definition with
@@ -1423,7 +1300,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.320 ...е $p = 0,5^{A/\Delta A} \mbox{ –}$ −
+l.322 ...е $p = 0,5^{A/\Delta A} \mbox{ –}$ −
                                                    совместимая в...
 
 You may provide a definition with
@@ -1437,34 +1314,18 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.320 ...2 0,5 = 1 \mbox{ бит}$, где 0,5 −
+l.322 ...2 0,5 = 1 \mbox{ бит}$, где 0,5 −
                                                    вероятность н...
 
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
 
-Overfull \hbox (1.58745pt too wide) in paragraph at lines 314--324
-\T2A/cmr/m/up/14.4 ��������� $\OML/cmm/m/it/14.4 J \OT1/cmr/m/n/14.4 = \OML/cmm
-/m/it/14.4 A=\OT1/cmr/m/n/14.4 ^^A\OML/cmm/m/it/14.4 A \OT1/cmr/m/n/14.4 = \T2A
-/cmr/m/up/14.4 ^^U\OML/cmm/m/it/14.4 log[]\OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4
- ; \OT1/cmr/m/n/14.4 5[] = \T2A/cmr/m/up/14.4 ^^U\OML/cmm/m/it/14.4 log[]\OT1/c
-mr/m/n/14.4 0\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 5[] = \T2A/cmr/m/up/14.4 ^^
-U\OML/cmm/m/it/14.4 log[]p$\T2A/cmr/m/up/14.4 , ��� $\OML/cmm/m/it/14.4 p \OT1/
-cmr/m/n/14.4 = 0\OML/cmm/m/it/14.4 ; \OT1/cmr/m/n/14.4 5[][]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 314--324
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 325--326
-
- []
-
-[13] [14]
+[12] [13]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1472,50 +1333,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.332 
+l.335 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[14
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--334
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 335--336
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 337--338
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 339--340
-
- []
-
-[15
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
-
- []
-
-[16]
-Underfull \hbox (badness 10000) in paragraph at lines 376--379
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 382--383
-
- []
-
-[17]
+] [15] [16]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1530,58 +1356,18 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--389
+Underfull \hbox (badness 10000) in paragraph at lines 394--396
 
  []
 
+[17
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--394
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 395--397
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 397--399
-
- []
-
-[18
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 404--407
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 413--416
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 417--419
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
+] [18]
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 
  []
 
 [19]
-Underfull \hbox (badness 10000) in paragraph at lines 422--431
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 422--431
-
- []
-
-[20] [21]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1589,71 +1375,15 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.434 
+l.430 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+[20
 
-Underfull \hbox (badness 10000) in paragraph at lines 435--438
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 439--442
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 443--450
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 451--455
-
- []
-
-[22
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 457--461
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 463--464
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 465--467
-
- []
-
-[23]
-Underfull \hbox (badness 10000) in paragraph at lines 468--470
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 471--472
-
- []
-
-
-Overfull \hbox (1.01857pt too wide) in paragraph at lines 473--476
-[]\T2A/cmr/m/up/14.4 ��������� ��-���-��-��-��-��-�� ��-�� ���-��-��-�� ���-�� 
-��-��-��-�����-��� ����-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 473--476
-
- []
-
-[24]
+] [21]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1661,9 +1391,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.479 1
-       . Виноградов С.Н., Кузьмин А.Ф. Логика: у...
-
+l.470 
+      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -1676,7 +1405,34 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.482 ...систем / В.Н. Волкова. −
+l.474 ...�ешений/ В.Н. Волкова. −
+                                                    СПб.: Изд-во П�...
+
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character − (U+2212)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.474 ...�го университета, 2006. −
+                                                   120 с.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+! Package inputenc Error: Unicode character − (U+2212)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.475 ...систем / В.Н. Волкова. −
                                                    СПб.: Изд-во По...
 
 You may provide a definition with
@@ -1690,25 +1446,12 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.482 ...о Политехн. ун-та, 2012. −
+l.475 ...о Политехн. ун-та, 2012. −
                                                    280 с.\\
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-
-! Package inputenc Error: Unicode character − (U+2212)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.485 ...�олитехн . ун - та , 2005. −
-                                                   296 с \\
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-[25
+[22
 
 ] (./ref.aux)
 
@@ -1719,13 +1462,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7158 strings out of 481239
- 107623 string characters out of 5920377
+ 7155 strings out of 481239
+ 107576 string characters out of 5920377
  364614 words of memory out of 5000000
- 22315 multiletter control sequences out of 15000+600000
+ 22312 multiletter control sequences out of 15000+600000
  542924 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,15n,45p,2366b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,15n,45p,2120b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
@@ -1741,10 +1484,10 @@ texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/pu
 blic/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm12
 00.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/t
 exmf/fonts/type1/public/cm-super/sfrm1728.pfb>
-Output written on ref.pdf (25 pages, 224742 bytes).
+Output written on ref.pdf (22 pages, 218066 bytes).
 PDF statistics:
- 151 PDF objects out of 1000 (max. 8388607)
- 106 compressed objects within 2 object streams
+ 140 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -3,8 +3,8 @@
 \babel@toc {russian}{}
 \contentsline {chapter}{ВВЕДЕНИЕ}{3}%
 \contentsline {chapter}{1. Диалектика и диалектическая логика. Основные понятия. }{6}%
-\contentsline {chapter}{2. Информационный подход }{9}%
-\contentsline {chapter}{3. Особенности моделей диалектической логики}{15}%
-\contentsline {chapter}{4. Формализация законов диалектической логики }{18}%
-\contentsline {chapter}{ЗАКЛЮЧЕНИЕ }{22}%
-\contentsline {chapter}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{25}%
+\contentsline {chapter}{2. Информационный подход }{8}%
+\contentsline {chapter}{3. Особенности моделей диалектической логики}{14}%
+\contentsline {chapter}{4. Формализация законов диалектической логики }{17}%
+\contentsline {chapter}{ЗАКЛЮЧЕНИЕ }{20}%
+\contentsline {chapter}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{22}%
